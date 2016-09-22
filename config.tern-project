@@ -1,0 +1,10 @@
+{
+  "libs" : [
+          "lodash"
+          ],
+    "ecmaVersion" : 6,
+    "loadEagerly": [ "*.js",  "lib/*.js" ],
+    "plugins" : {
+	"node" : {} 
+    } 
+}
